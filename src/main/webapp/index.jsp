@@ -12,6 +12,8 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome all our great all leaders Devops and AWS Cloud</h2>
+            <h2 class="text-center">Testing automatic build</h2>
+
       
 <center><img src="http://www.techmarshals.com/wp-content/uploads/2017/08/Tech-Marshals.jpg" width=50% hight=50%>
  </center> </div>
